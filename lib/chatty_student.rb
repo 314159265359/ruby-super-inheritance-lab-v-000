@@ -6,11 +6,8 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    #counter = 0
     for i in 1..10
       super
-      #puts "\n"
-      #counter++
     end
   end
 
