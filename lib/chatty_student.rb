@@ -4,3 +4,5 @@ class ChattyStudent
     super 
     puts "Aaaand!"
   end
+
+end
