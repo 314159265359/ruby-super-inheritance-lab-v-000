@@ -9,6 +9,7 @@ class ChattyStudent < Student
     counter = 0
     while counter < 10
       super
+      puts "\n"
       counter++
     end
   end
