@@ -10,7 +10,7 @@ class ChattyStudent < Student
     for i in 1..10
       super
       puts "\n"
-      counter++
+      #counter++
     end
   end
 
