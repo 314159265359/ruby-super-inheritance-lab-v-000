@@ -9,7 +9,7 @@ class ChattyStudent < Student
     #counter = 0
     for i in 1..10
       super
-      puts "\n"
+      #puts "\n"
       #counter++
     end
   end
